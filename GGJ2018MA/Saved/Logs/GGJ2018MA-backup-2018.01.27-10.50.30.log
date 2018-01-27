@@ -1,0 +1,1072 @@
+﻿Log file open, 01/27/18 04:05:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ2018MA
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-272871615) SRandInit(-272871615).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192439
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/HoudiniEngine/Binaries/Win64/UE4Editor-HoudiniEngineEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-03.05.10:351][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-03.05.10:352][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-03.05.10:374][  0]LogInit: Computer: MSI
+[2018.01.27-03.05.10:374][  0]LogInit: User: arjan
+[2018.01.27-03.05.10:374][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-03.05.10:374][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.01.27-03.05.10:374][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.27-03.05.10:374][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-03.05.10:374][  0]LogMemory: Process Physical Memory: 276.26 MB used, 276.26 MB peak
+[2018.01.27-03.05.10:374][  0]LogMemory: Process Virtual Memory: 269.89 MB used, 269.89 MB peak
+[2018.01.27-03.05.10:374][  0]LogMemory: Physical Memory: 11814.57 MB used,  4457.14 MB free, 16271.71 MB total
+[2018.01.27-03.05.10:374][  0]LogMemory: Virtual Memory: 677.92 MB used,  4457.14 MB free, 134217728.00 MB total
+[2018.01.27-03.05.12:138][  0]LogInit: Using OS detected language (en-US).
+[2018.01.27-03.05.12:138][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.27-03.05.12:224][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.27-03.05.12:728][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.27-03.05.15:829][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-03.05.16:323][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.01.27-03.05.16:323][  0]LogD3D11RHI:       8074/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.01.27-03.05.16:333][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.27-03.05.16:334][  0]LogD3D11RHI:       128/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.27-03.05.16:336][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-03.05.16:336][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-03.05.16:336][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-03.05.16:344][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-03.05.16:345][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-03.05.16:345][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-03.05.16:345][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.27-03.05.16:345][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.27-03.05.16:345][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.27-03.05.16:345][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.01.27-03.05.16:346][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.01.27-03.05.16:346][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.27-03.05.16:346][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.01.27-03.05.16:346][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.27-03.05.16:346][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.01.27-03.05.16:346][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.27-03.05.16:346][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.27-03.05.16:346][  0]LogRHI: Texture pool is 5651 MB (70% of 8074 MB)
+[2018.01.27-03.05.16:372][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-03.05.16:384][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.27-03.05.16:492][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (D:/Repositories/GGameJam2018/GGJ2018MA/Intermediate/Shaders/WorkingDirectory/6028/).
+[2018.01.27-03.05.16:493][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/arjan/AppData/Local/Temp/UnrealShaderWorkingDir/56855A3B4830A384C35ABEAE8086D5C3/'.
+[2018.01.27-03.05.16:493][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-03.05.17:593][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-03.05.17:652][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-03.05.17:718][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-03.05.17:782][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-03.05.17:851][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-03.05.17:916][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-03.05.17:984][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-03.05.18:050][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-03.05.18:106][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-03.05.18:170][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-03.05.18:236][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-03.05.18:301][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-03.05.18:359][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-03.05.18:417][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-03.05.18:536][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-03.05.18:536][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-03.05.18:607][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-03.05.18:651][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-03.05.18:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-03.05.18:806][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-03.05.18:867][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-03.05.18:927][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-03.05.18:986][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-03.05.19:047][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-03.05.19:047][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-03.05.19:647][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-03.05.19:729][  0]LogDerivedDataCache: Loaded boot cache 0.08s 78MB C:/Users/arjan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-03.05.19:730][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/arjan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.27-03.05.19:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Repositories/GGameJam2018/GGJ2018MA/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-03.05.19:730][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-03.05.19:730][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Repositories/GGameJam2018/GGJ2018MA/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-03.05.19:730][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-03.05.19:754][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-03.05.19:766][  0]LogDerivedDataCache: Using Local data cache path C:/Users/arjan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-03.05.19:778][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-03.05.19:779][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-03.05.19:797][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-03.05.19:797][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-03.05.20:431][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-03.05.20:904][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-03.05.20:950][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-03.05.20:950][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-03.05.20:950][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-03.05.20:950][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-03.05.20:950][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-03.05.20:993][  0]LogNetVersion: GGJ2018MA , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 446695456)
+[2018.01.27-03.05.21:207][  0]LogAssetRegistry: FAssetRegistry took 0.0282 seconds to start up
+[2018.01.27-03.05.21:833][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.105830 seconds
+[2018.01.27-03.05.21:839][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.01.27-03.05.21:839][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.01.27-03.05.21:839][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-03.05.21:903][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-03.05.27:479][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-03.05.27:529][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-03.05.28:387][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-03.05.28:920][  0]SourceControl: Source control is disabled
+[2018.01.27-03.05.28:920][  0]SourceControl: Source control is disabled
+[2018.01.27-03.05.28:986][  0]SourceControl: Source control is disabled
+[2018.01.27-03.05.29:047][  0]SourceControl: Source control is disabled
+[2018.01.27-03.05.30:070][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-03.05.30:346][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.01.27-03.05.30:360][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path D:\Program Files\Side Effects Software\Houdini 16.5.323/bin
+[2018.01.27-03.05.30:361][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.01.27-03.05.30:365][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.01.27-03.05.30:371][  0]LogLinker: Warning: Asset '../../../Engine/Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.01.27-03.05.34:177][  0]LogHoudiniEngine: Successfully intialized the Houdini Engine API module.
+[2018.01.27-03.05.34:346][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-03.05.34:715][  0]LogEngine: Initializing Engine...
+[2018.01.27-03.05.34:719][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-03.05.35:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-03.05.35:027][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-03.05.35:225][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-03.05.35:784][  0]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.05.35:820][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-03.05.35:900][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/arjan/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.27-03.05.35:935][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-03.05.36:068][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-03.05.36:246][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-03.05.36:647][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-03.05.37:755][  0]LocalizationService: Localization service is disabled
+[2018.01.27-03.05.38:385][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/PuzzleOverview'
+[2018.01.27-03.05.38:385][  0]LogLinker: Warning: Can't find file '/Game/PuzzleBP/PuzzleOverview'
+[2018.01.27-03.05.38:386][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/PuzzleBP/PuzzleOverview.PuzzleOverview_C'
+[2018.01.27-03.05.38:661][  0]LogConsoleResponse: Display: 
+[2018.01.27-03.05.39:058][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-03.05.39:058][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-03.05.39:058][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-03.05.39:836][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/' took 0.02s
+[2018.01.27-03.05.39:998][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.01.27-03.05.40:588][  0]SourceControl: Source control is disabled
+[2018.01.27-03.05.40:588][  0]Cmd: MAP LOAD FILE="D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-03.05.40:589][  0]LightingResults: New page: Lighting Build
+[2018.01.27-03.05.40:647][  0]MapCheck: New page: Map Check
+[2018.01.27-03.05.40:647][  0]LightingResults: New page: Lighting Build
+[2018.01.27-03.05.41:059][  0]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.01.27-03.05.41:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-03.05.41:082][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-03.05.41:139][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.751ms to complete.
+[2018.01.27-03.05.41:139][  0]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.551
+[2018.01.27-03.05.41:416][  0]LogCollectionManager: Loaded 0 collections in 0.002246 seconds
+[2018.01.27-03.05.41:515][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/Collections/' took 0.01s
+[2018.01.27-03.05.41:515][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/Developers/arjan/Collections/' took 0.01s
+[2018.01.27-03.05.41:515][  0]LogFileCache: Scanning file cache for directory 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/Collections/' took 0.01s
+[2018.01.27-03.05.41:515][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.27-03.05.41:526][  0]LogContentBrowser: Native class hierarchy populated in 0.0112 seconds. Added 2397 classes and 526 folders.
+[2018.01.27-03.05.41:608][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.27-03.05.42:004][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.01.27-03.05.42:089][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.27-03.05.42:173][  0]LogSlate: Took 0.005004 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-03.05.42:181][  0]LogSlate: Took 0.006156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-03.05.42:197][  0]LogSlate: Took 0.010967 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-03.05.42:332][  0]LogRenderer: Reallocating scene render targets to support 1456x668 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-03.05.42:598][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.27-03.05.42:598][  0]LogLoad: (Engine Initialization) Total time: 36.03 seconds
+[2018.01.27-03.05.42:598][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-03.05.42:598][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-03.05.42:638][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-03.05.42:691][  0]LogSlate: Took 0.004053 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.05.42:720][  1]LogAssetRegistry: Asset discovery search completed in 21.5346 seconds
+[2018.01.27-03.05.42:721][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.27-03.05.42:721][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.01.27-03.05.43:648][ 52]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.06.24:706][299]LogStaticMesh: Building static mesh obstacle_Fast...
+[2018.01.27-03.06.24:723][299]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-03.06.24:736][299]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/obstacle_Fast.obstacle_Fast
+[2018.01.27-03.06.25:450][299]LogRenderer: Reallocating scene render targets to support 1456x924 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-03.06.35:886][917]LogHoudiniEngineEditor: PostSpawnActor HoudiniAssetActor_0, supplied Asset = 0x000001CCFA23CAA0
+[2018.01.27-03.06.36:411][947]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator.StaticMeshComponent_2) Not registered. Aborting.
+[2018.01.27-03.06.36:416][947]LogHoudiniEngineEditor: PostSpawnActor HoudiniAssetActor_1, supplied Asset = 0x000001CCFA23CAA0
+[2018.01.27-03.06.36:416][947]LogHoudiniEngine: Warning: Asset C:/Users/Mihnea/Desktop/GGJ 2018/Mihnea_levelgenerator.hdalc, loading from Memory: source asset file not found.
+[2018.01.27-03.06.37:107][947]LogHoudiniEngine: Error loading asset library for C:/Users/Mihnea/Desktop/GGJ 2018/Mihnea_levelgenerator.hdalc: HAPI Error: No Valid Licenses Found
+- HAPI_LICENSE_MODE unset or is set to 'default' meaning Houdini Engine will first try to acquire a Houdini Engine license and if one is not found it will try to acquire an interactive Houdini license (Houdini Core then Houdini FX).
+- No Houdini Engine license found.
+- No Houdini license.
+- No Houdini FX license found.
+- No Houdini Engine Indie license found.
+- No Houdini Indie license.
+[2018.01.27-03.06.37:107][947]LogHoudiniEngine: Cancelling asset instantiation - unable to retrieve asset names.
+[2018.01.27-03.10.04:411][971]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.10.18:987][812]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.10.19:339][832]LogEditorViewport: Clicking on Actor (context menu): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.10.26:791][253]LogEditorActor: Deleted Actor: HoudiniAssetActor
+[2018.01.27-03.10.26:792][253]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_2.StaticMeshComponent_4) Not registered. Aborting.
+[2018.01.27-03.10.26:802][253]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2018.01.27-03.10.29:436][404]LogHoudiniEngineEditor: PostSpawnActor HoudiniAssetActor_3, supplied Asset = 0x000001CCFA23CAA0
+[2018.01.27-03.10.30:187][448]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator.StaticMeshComponent_6) Not registered. Aborting.
+[2018.01.27-03.10.30:573][470]LogHoudiniEngineEditor: PostSpawnActor HoudiniAssetActor_4, supplied Asset = 0x000001CCFA23CAA0
+[2018.01.27-03.10.31:021][496]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_5.StaticMeshComponent_8) Not registered. Aborting.
+[2018.01.27-03.10.31:025][496]LogHoudiniEngineEditor: PostSpawnActor HoudiniAssetActor_6, supplied Asset = 0x000001CCFA23CAA0
+[2018.01.27-03.10.31:026][496]LogHoudiniEngine: Warning: Asset C:/Users/Mihnea/Desktop/GGJ 2018/Mihnea_levelgenerator.hdalc, loading from Memory: source asset file not found.
+[2018.01.27-03.10.31:537][496]LogHoudiniEngine: HAPI Asynchronous Instantiation Started for HoudiniAssetActor_6: Asset=Sop/Mihnea_levelgenerator, HoudiniAsset = 0xfa23caa0
+[2018.01.27-03.10.32:516][551]LogHoudiniEngine:     Mihnea_levelgenerator_7 FinishedInstantiation.
+[2018.01.27-03.10.32:537][552]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.10.32:778][566]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.10.32:864][566]LogMaterial: Missing cached shader map for material level_MAT, compiling. 
+[2018.01.27-03.10.32:913][566]LogMaterial: Missing cached shader map for material startFinish_MAT, compiling. 
+[2018.01.27-03.10.32:941][566]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.10.32:942][566]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.10.32:943][566]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.10.32:943][566]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.10.32:943][566]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.11.21:884][107]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-03.11.21:933][107]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.11.21:933][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-03.11.21:934][107]PIE: New page: PIE session: PuzzleExampleMap (Jan 27, 2018, 5:11:21 AM)
+[2018.01.27-03.11.21:934][107]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.01.27-03.11.21:950][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016284s)
+[2018.01.27-03.11.21:951][107]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.01.27-03.11.21:951][107]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2018.01.27-03.11.21:952][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.017948s)
+[2018.01.27-03.11.22:466][107]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.11.22:500][107]LogInit: FAudioDevice initialized.
+[2018.01.27-03.11.22:546][107]LogLoad: Game class is 'PlayMode_C'
+[2018.01.27-03.11.22:549][107]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 60) at 2018.01.27-04.11.22
+[2018.01.27-03.11.22:549][107]LogWorld: Bringing up level for play took: 0.001107
+[2018.01.27-03.11.22:596][107]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.01.27-03.11.22:597][107]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-03.11.22:597][107]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-03.11.22:597][107]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-03.11.22:598][107]LogBlueprintUserMessages: [GameController_66] Create All Spawners
+[2018.01.27-03.11.22:598][107]LogBlueprintUserMessages: [GameController_66] Create Spawner: 0
+[2018.01.27-03.11.22:598][107]LogBlueprintUserMessages: [GameController_66] Create Spawner: 1
+[2018.01.27-03.11.22:598][107]LogBlueprintUserMessages: [GameController_66] Create All Spawners Done
+[2018.01.27-03.11.22:599][107]LogBlueprintUserMessages: [Player_C_0] Player material set
+[2018.01.27-03.11.22:599][107]LogBlueprintUserMessages: [Spawner_C_0] Player is spawned
+[2018.01.27-03.11.22:601][107]LogBlueprintUserMessages: [Player_C_1] Player material set
+[2018.01.27-03.11.22:601][107]LogBlueprintUserMessages: [Spawner_C_1] Player is spawned
+[2018.01.27-03.11.22:601][107]LogBlueprintUserMessages: [GameController_66] Spawning Players done
+[2018.01.27-03.11.22:601][107]LogBlueprintUserMessages: [GameController_66] Game Play Start
+[2018.01.27-03.11.22:601][107]LogBlueprintUserMessages: [GameController_66] Start Countdown
+[2018.01.27-03.11.22:601][107]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-03.11.22:601][107]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.532
+[2018.01.27-03.11.22:602][107]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.11.23:273][143]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.11.23:274][143]LogBlueprintUserMessages: [GameController_66] CD: 5
+[2018.01.27-03.11.24:284][202]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.11.24:284][202]LogBlueprintUserMessages: [GameController_66] CD: 4
+[2018.01.27-03.11.25:275][261]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.11.25:275][261]LogBlueprintUserMessages: [GameController_66] CD: 3
+[2018.01.27-03.11.26:283][321]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.11.26:283][321]LogBlueprintUserMessages: [GameController_66] CD: 2
+[2018.01.27-03.11.27:280][380]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.11.27:281][380]LogBlueprintUserMessages: [GameController_66] CD: 1
+[2018.01.27-03.11.27:281][380]LogBlueprintUserMessages: [GameController_66] Clear CountDown Timer
+[2018.01.27-03.11.27:281][380]LogBlueprintUserMessages: [GameController_66] Activate players
+[2018.01.27-03.11.32:670][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.11.32:705][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.11.32:714][701]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.None) Not registered. Aborting.
+[2018.01.27-03.11.36:311][913]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.11.48:422][627]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.11.48:663][641]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.11.48:664][641]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.11.48:666][641]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.11.48:667][641]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.11.48:667][641]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.11.48:668][641]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.11.50:772][765]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.11.51:014][779]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.11.51:015][779]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.11.51:015][779]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.11.51:016][779]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.11.51:016][779]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.11.51:016][779]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.11.52:593][870]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.11.52:834][884]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.11.52:835][884]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.11.52:835][884]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.11.52:836][884]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.11.52:836][884]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.11.52:836][884]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.01:837][419]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.02:077][433]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.02:078][433]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.02:079][433]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.02:080][433]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.02:080][433]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.02:080][433]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.10:194][914]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.10:432][928]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.10:433][928]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.10:433][928]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.10:434][928]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.10:434][928]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.10:434][928]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.15:194][210]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.15:437][224]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.15:439][224]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.15:439][224]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.15:440][224]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.15:440][224]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.15:440][224]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.25:928][838]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.26:167][852]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.26:168][852]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.26:168][852]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.26:169][852]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.26:170][852]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.26:170][852]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.28:904][ 12]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.29:141][ 26]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.29:142][ 26]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.29:142][ 26]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.29:143][ 26]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.29:143][ 26]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.29:143][ 26]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.38:557][582]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.38:792][596]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.38:793][596]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.38:794][596]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.38:795][596]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.38:795][596]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.38:795][596]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.42:828][835]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.43:068][849]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.43:069][849]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.43:070][849]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.43:070][849]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.43:070][849]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.43:071][849]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.50:478][288]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.50:721][302]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.50:722][302]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.50:723][302]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.50:723][302]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.50:724][302]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.50:724][302]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.12.53:274][450]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.12.53:508][464]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.12.53:509][464]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.12.53:510][464]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.12.53:511][464]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.12.53:511][464]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.12.53:511][464]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.02:396][985]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.03:143][ 29]LogHoudiniEngine:     Mihnea_levelgenerator_7 FinishedCookingWithErrors.
+[2018.01.27-03.13.14:099][681]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.14:336][695]LogHoudiniEngine:     Mihnea_levelgenerator_7 FinishedCookingWithErrors.
+[2018.01.27-03.13.20:970][ 84]LogStaticMesh: Building static mesh obstacle_Slow...
+[2018.01.27-03.13.20:995][ 84]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/obstacle_Slow.obstacle_Slow
+[2018.01.27-03.13.21:272][ 95]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.21:458][106]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.21:459][106]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.21:460][106]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.21:460][106]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.21:461][106]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.21:461][106]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.21:462][106]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.21:462][106]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.21:462][106]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.21:463][106]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.21:464][106]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.27:345][443]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.27:562][456]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.27:564][456]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.27:564][456]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.27:565][456]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.27:565][456]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.27:565][456]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.27:566][456]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.27:566][456]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.27:567][456]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.27:567][456]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.27:567][456]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.30:105][600]LogStaticMesh: Building static mesh obstacle_verySlow...
+[2018.01.27-03.13.30:132][600]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/obstacle_verySlow.obstacle_verySlow
+[2018.01.27-03.13.30:384][611]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.30:607][624]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.30:608][624]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.30:609][624]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.30:609][624]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.30:609][624]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.30:610][624]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.30:610][624]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.30:611][624]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.30:611][624]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.30:611][624]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.30:611][624]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.41:411][264]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.41:644][278]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.41:645][278]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.41:646][278]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.41:647][278]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.41:647][278]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.41:647][278]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.41:648][278]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.41:649][278]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.41:650][278]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.41:650][278]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.41:650][278]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.52:918][947]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.53:154][961]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.53:155][961]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.53:156][961]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.53:156][961]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.53:156][961]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.53:157][961]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.53:157][961]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.53:159][961]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.53:159][961]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.53:159][961]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.53:159][961]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.53:160][961]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.13.53:161][961]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.13.53:163][961]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.13.59:286][323]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.13.59:528][337]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.13.59:528][337]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.13.59:529][337]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.13.59:529][337]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.13.59:530][337]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.59:530][337]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.59:530][337]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.13.59:531][337]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.13.59:531][337]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.13.59:531][337]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.13.59:531][337]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.13.59:532][337]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.13.59:533][337]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.13.59:535][337]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.13.59:537][337]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.13.59:538][337]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.13.59:544][337]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.13:570][163]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.13:816][177]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.13:817][177]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.13:818][177]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.13:818][177]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.13:819][177]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.13:819][177]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.13:819][177]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.13:820][177]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.13:820][177]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.13:820][177]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.13:820][177]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.13:821][177]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.13:823][177]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.13:826][177]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.13:828][177]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.13:829][177]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.13:838][177]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.16:861][352]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.17:095][366]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.17:096][366]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.17:097][366]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.17:098][366]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.17:098][366]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.17:098][366]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.17:099][366]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.17:099][366]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.17:100][366]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.17:100][366]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.17:100][366]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.17:101][366]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.17:101][366]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.17:103][366]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.17:106][366]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.17:106][366]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.17:113][366]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.21:485][622]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.21:721][636]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.21:722][636]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.21:723][636]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.21:723][636]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.21:723][636]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.21:723][636]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.21:724][636]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.21:725][636]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.21:725][636]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.21:725][636]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.21:725][636]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.21:726][636]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.21:727][636]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.21:731][636]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.21:734][636]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.21:735][636]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.21:741][636]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.25:377][849]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.25:612][863]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.25:613][863]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.25:613][863]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.25:614][863]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.25:614][863]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.25:614][863]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.25:615][863]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.25:615][863]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.25:615][863]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.25:616][863]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.25:616][863]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.25:617][863]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.25:617][863]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.25:619][863]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.25:622][863]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.25:622][863]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.25:627][863]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.29:654][ 99]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.29:890][113]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.29:891][113]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.29:892][113]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.29:892][113]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.29:893][113]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.29:893][113]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.29:893][113]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.29:894][113]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.29:895][113]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.29:896][113]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.29:896][113]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.29:897][113]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.29:897][113]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.29:899][113]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.29:901][113]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.29:902][113]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.29:907][113]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.30:952][175]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.31:190][189]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.31:192][189]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.31:192][189]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.31:193][189]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.31:193][189]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.31:193][189]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.31:194][189]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.31:194][189]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.31:195][189]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.31:195][189]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.31:195][189]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.31:196][189]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.31:197][189]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.31:200][189]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.31:203][189]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.31:204][189]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.31:209][189]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.33:334][312]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.14.33:573][326]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.14.33:575][326]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.14.33:575][326]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.14.33:576][326]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.14.33:577][326]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.33:577][326]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.33:578][326]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.14.33:579][326]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.14.33:580][326]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.14.33:580][326]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.14.33:580][326]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.14.33:581][326]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.14.33:582][326]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.14.33:585][326]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.14.33:587][326]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.14.33:588][326]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.14.33:593][326]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.14.44:048][941]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-03.14.44:064][941]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.14.44:064][941]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-03.14.44:064][941]PIE: New page: PIE session: PuzzleExampleMap (Jan 27, 2018, 5:14:44 AM)
+[2018.01.27-03.14.44:064][941]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.01.27-03.14.44:087][941]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021619s)
+[2018.01.27-03.14.44:088][941]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.01.27-03.14.44:088][941]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2018.01.27-03.14.44:088][941]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.023444s)
+[2018.01.27-03.14.44:585][941]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.14.44:618][941]LogInit: FAudioDevice initialized.
+[2018.01.27-03.14.44:657][941]LogLoad: Game class is 'PlayMode_C'
+[2018.01.27-03.14.44:659][941]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 60) at 2018.01.27-04.14.44
+[2018.01.27-03.14.44:660][941]LogWorld: Bringing up level for play took: 0.001490
+[2018.01.27-03.14.44:660][941]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-03.14.44:660][941]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-03.14.44:660][941]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-03.14.44:661][941]LogBlueprintUserMessages: [GameController_66] Create All Spawners
+[2018.01.27-03.14.44:662][941]LogBlueprintUserMessages: [GameController_66] Create Spawner: 0
+[2018.01.27-03.14.44:662][941]LogBlueprintUserMessages: [GameController_66] Create Spawner: 1
+[2018.01.27-03.14.44:662][941]LogBlueprintUserMessages: [GameController_66] Create All Spawners Done
+[2018.01.27-03.14.44:662][941]LogBlueprintUserMessages: [Player_C_0] Player material set
+[2018.01.27-03.14.44:662][941]LogBlueprintUserMessages: [Spawner_C_0] Player is spawned
+[2018.01.27-03.14.44:663][941]LogBlueprintUserMessages: [Player_C_1] Player material set
+[2018.01.27-03.14.44:663][941]LogBlueprintUserMessages: [Spawner_C_1] Player is spawned
+[2018.01.27-03.14.44:663][941]LogBlueprintUserMessages: [GameController_66] Spawning Players done
+[2018.01.27-03.14.44:663][941]LogBlueprintUserMessages: [GameController_66] Game Play Start
+[2018.01.27-03.14.44:663][941]LogBlueprintUserMessages: [GameController_66] Start Countdown
+[2018.01.27-03.14.44:663][941]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-03.14.44:664][941]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 1.594
+[2018.01.27-03.14.44:664][941]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.14.45:317][978]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.14.45:317][978]LogBlueprintUserMessages: [GameController_66] CD: 5
+[2018.01.27-03.14.46:320][ 38]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.14.46:320][ 38]LogBlueprintUserMessages: [GameController_66] CD: 4
+[2018.01.27-03.14.47:320][ 98]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.14.47:320][ 98]LogBlueprintUserMessages: [GameController_66] CD: 3
+[2018.01.27-03.14.48:322][158]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.14.48:322][158]LogBlueprintUserMessages: [GameController_66] CD: 2
+[2018.01.27-03.14.49:324][218]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-03.14.49:324][218]LogBlueprintUserMessages: [GameController_66] CD: 1
+[2018.01.27-03.14.49:324][218]LogBlueprintUserMessages: [GameController_66] Clear CountDown Timer
+[2018.01.27-03.14.49:324][218]LogBlueprintUserMessages: [GameController_66] Activate players
+[2018.01.27-03.14.59:958][855]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-03.14.59:959][855]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-03.15.07:126][284]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-03.15.07:127][284]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-03.15.07:143][285]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-03.15.07:143][285]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-03.15.07:160][286]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-03.15.07:160][286]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-03.15.15:677][796]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.15.15:710][796]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-03.15.15:720][796]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2018.01.27-03.15.15:720][796]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2018.01.27-03.15.15:720][796]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2018.01.27-03.15.15:720][796]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.None) Not registered. Aborting.
+[2018.01.27-03.16.26:992][657]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.16.54:732][251]LogSavePackage: Save=143.97ms
+[2018.01.27-03.16.54:733][251]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMap_Auto1D495E9194953B163F3F5FEB325C8DA6C.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto1.umap'
+[2018.01.27-03.16.54:735][251]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto1.umap
+[2018.01.27-03.16.54:741][251]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/PuzzleExampleMap' took 0.189
+[2018.01.27-03.16.54:741][251]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.189
+[2018.01.27-03.17.15:429][454]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.17.16:184][496]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.17.18:314][616]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.17.23:031][878]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.17.30:776][319]LogEditorViewport: Clicking on Actor (LMB): HoudiniAssetActor (Mihnea_levelgenerator)
+[2018.01.27-03.17.49:066][358]LogSlate: Took 0.004718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.27-03.19.28:991][991]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.19.29:214][  4]LogHoudiniEngine:     Mihnea_levelgenerator_7 FinishedCookingWithErrors.
+[2018.01.27-03.19.50:206][231]LogHoudiniEngine: HAPI Asynchronous Cooking Started for Mihnea_levelgenerator_7., AssetId = 0
+[2018.01.27-03.19.50:411][243]LogHoudiniEngine:    Mihnea_levelgenerator_7 FinishedCooking.
+[2018.01.27-03.19.50:412][243]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [0 Mihnea_levelgenerator1_0] invalid face detected - skipping.
+[2018.01.27-03.19.50:413][243]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63...
+[2018.01.27-03.19.50:414][243]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63.Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63
+[2018.01.27-03.19.50:414][243]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.19.50:414][243]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_0_0_3_0_0_0_main_geo_C62B6E63 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.19.50:415][243]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [2 Mihnea_levelgenerator1_2] invalid face detected - skipping.
+[2018.01.27-03.19.50:416][243]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C...
+[2018.01.27-03.19.50:417][243]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C.Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C
+[2018.01.27-03.19.50:418][243]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.27-03.19.50:419][243]LogStaticMesh: Warning: Mihnea_levelgenerator_7_3_0_2_0_3_0_2_0_main_geo_66E4D87C has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.27-03.19.50:421][243]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [4 Mihnea_levelgenerator1_4] invalid face detected - skipping.
+[2018.01.27-03.19.50:422][243]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B...
+[2018.01.27-03.19.50:423][243]LogStaticMesh: Built static mesh [0.00s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B.Mihnea_levelgenerator_7_3_0_4_0_3_0_4_0_main_geo_EC6F3F6B
+[2018.01.27-03.19.50:426][243]LogHoudiniEngine: Skipping Lightmap Generation: Object [3 Mihnea_levelgenerator], Geo [0], Part [6 Mihnea_levelgenerator1_6] invalid face detected - skipping.
+[2018.01.27-03.19.50:426][243]LogStaticMesh: Building static mesh Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B...
+[2018.01.27-03.19.50:436][243]LogStaticMesh: Built static mesh [0.01s] /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel./Game/Geometry/Mihnea_levelgenerator_BE24AD394D2C/Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B.Mihnea_levelgenerator_7_3_0_6_0_3_0_6_0_main_geo_667DDF3B
+[2018.01.27-03.26.55:458][844]LogSavePackage: Save=151.48ms
+[2018.01.27-03.26.55:458][844]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMap_Auto2A4E78869420A80452F5A9D8A080D3B71.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto2.umap'
+[2018.01.27-03.26.55:461][844]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Saved/Autosaves/Game/PuzzleBP/Maps/PuzzleExampleMap_Auto2.umap
+[2018.01.27-03.26.55:469][844]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/PuzzleBP/Maps/PuzzleExampleMap' took 0.195
+[2018.01.27-03.26.55:469][844]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.195
+[2018.01.27-03.37.09:535][680]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.43.05:199][745]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-03.43.05:848][747]LogAudio: Warning: Current Audio Device with ID {0.0.0.00000000}.{1ae28baf-4280-433e-9cfc-d68256bd7448} was removed. Shutting down audio device.
+[2018.01.27-03.43.05:848][747]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.27-08.44.41:876][748]LogRenderer: Reallocating scene render targets to support 1456x964 Format 10 NumSamples 1 (Frame:14912).
+[2018.01.27-08.44.42:137][748]LogRenderer: Reallocating scene render targets to support 1516x964 Format 10 NumSamples 1 (Frame:27896).
+[2018.01.27-08.44.46:082][748]LogInit: XAudio2 using 'PHL 223V5-C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-08.45.09:391][812]LogInit: XAudio2 using 'PHL 223V5-C (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-08.45.10:875][815]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-08.45.45:947][922]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-08.45.45:974][922]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-08.45.45:975][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-08.45.45:975][922]PIE: New page: PIE session: PuzzleExampleMap (Jan 27, 2018, 10:45:45 AM)
+[2018.01.27-08.45.45:975][922]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.01.27-08.45.46:342][922]LogPlayLevel: PIE: StaticDuplicateObject took: (0.366753s)
+[2018.01.27-08.45.46:346][922]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.01.27-08.45.46:347][922]LogPlayLevel: PIE: World Init took: (0.004824s)
+[2018.01.27-08.45.46:347][922]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.372109s)
+[2018.01.27-08.45.46:876][922]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-08.45.46:905][922]LogInit: FAudioDevice initialized.
+[2018.01.27-08.45.46:944][922]LogLoad: Game class is 'PlayMode_C'
+[2018.01.27-08.45.46:947][922]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 60) at 2018.01.27-09.45.46
+[2018.01.27-08.45.46:948][922]LogWorld: Bringing up level for play took: 0.002480
+[2018.01.27-08.45.46:948][922]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-08.45.46:948][922]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-08.45.46:948][922]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [GameController_66] Create All Spawners
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [GameController_66] Create Spawner: 0
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [GameController_66] Create Spawner: 1
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [GameController_66] Create All Spawners Done
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [Player_C_0] Player material set
+[2018.01.27-08.45.46:951][922]LogBlueprintUserMessages: [Spawner_C_0] Player is spawned
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: [Player_C_1] Player material set
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: [Spawner_C_1] Player is spawned
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: [GameController_66] Spawning Players done
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: [GameController_66] Game Play Start
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: [GameController_66] Start Countdown
+[2018.01.27-08.45.46:953][922]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-08.45.46:953][922]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.259
+[2018.01.27-08.45.46:953][922]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-08.45.47:639][959]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-08.45.47:639][959]LogBlueprintUserMessages: [GameController_66] CD: 5
+[2018.01.27-08.45.48:644][ 19]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-08.45.48:644][ 19]LogBlueprintUserMessages: [GameController_66] CD: 4
+[2018.01.27-08.45.49:645][ 79]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-08.45.49:645][ 79]LogBlueprintUserMessages: [GameController_66] CD: 3
+[2018.01.27-08.45.50:645][139]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-08.45.50:645][139]LogBlueprintUserMessages: [GameController_66] CD: 2
+[2018.01.27-08.45.51:632][198]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-08.45.51:632][198]LogBlueprintUserMessages: [GameController_66] CD: 1
+[2018.01.27-08.45.51:632][198]LogBlueprintUserMessages: [GameController_66] Clear CountDown Timer
+[2018.01.27-08.45.51:632][198]LogBlueprintUserMessages: [GameController_66] Activate players
+[2018.01.27-08.46.02:272][835]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-08.46.02:272][835]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-08.46.09:434][264]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-08.46.09:434][264]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-08.46.09:450][265]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-08.46.09:451][265]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-08.46.09:467][266]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-08.46.09:467][266]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-08.46.21:178][968]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-08.46.21:212][968]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-08.46.21:221][968]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2018.01.27-08.46.21:221][968]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2018.01.27-08.46.21:221][968]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2018.01.27-08.46.21:221][968]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.None) Not registered. Aborting.
+[2018.01.27-09.10.17:713][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/PuzzleExampleMap" FILE="D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-09.10.18:012][763]LogSavePackage: Save=159.66ms
+[2018.01.27-09.10.18:012][763]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMap68CDB5544CC74D2FBE57519BF9D8A76A.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap'
+[2018.01.27-09.10.18:021][763]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap
+[2018.01.27-09.10.18:073][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/PuzzleExampleMap_BuiltData" FILE="D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset" SILENT=true
+[2018.01.27-09.10.18:125][763]LogSavePackage: Save=39.99ms
+[2018.01.27-09.10.18:125][763]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMap_BuiltData035691E34AC97BDD88CD73AD7D7C0B85.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset'
+[2018.01.27-09.10.18:127][763]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset
+[2018.01.27-09.10.29:392][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/PuzzleExampleMap" FILE="D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.27-09.10.29:553][420]LogSavePackage: Save=144.96ms
+[2018.01.27-09.10.29:553][420]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMapF2BC3E9F4FCF2692BFB208B850DCB594.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap'
+[2018.01.27-09.10.29:553][420]LogFileManager: Warning: DeleteFile was unable to delete 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap', retrying in .5s...
+[2018.01.27-09.10.30:055][420]LogFileManager: Warning: DeleteFile recovered during retry!
+[2018.01.27-09.10.30:061][420]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap.umap
+[2018.01.27-09.10.30:099][420]LogSlate: Took 0.005537 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-09.10.30:104][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PuzzleBP/Maps/PuzzleExampleMap_BuiltData" FILE="D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset" SILENT=true
+[2018.01.27-09.10.30:137][420]LogSavePackage: Save=27.62ms
+[2018.01.27-09.10.30:137][420]LogSavePackage: Moving 'D:/Repositories/GGameJam2018/GGJ2018MA/Saved/PuzzleExampleMap_BuiltDataED05A6B547F5C35DDDB55D90279FC717.tmp' to 'D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset'
+[2018.01.27-09.10.30:139][420]LogSavePackage: Display: Finished SavePackage D:/Repositories/GGameJam2018/GGJ2018MA/Content/PuzzleBP/Maps/PuzzleExampleMap_BuiltData.uasset
+[2018.01.27-09.12.08:267][947]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-09.12.08:289][947]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-09.12.08:289][947]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-09.12.08:289][947]PIE: New page: PIE session: PuzzleExampleMap (Jan 27, 2018, 11:12:08 AM)
+[2018.01.27-09.12.08:290][947]LogPlayLevel: Creating play world package: /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap
+[2018.01.27-09.12.08:312][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022052s)
+[2018.01.27-09.12.08:312][947]LogAIModule: Creating AISystem for world PuzzleExampleMap
+[2018.01.27-09.12.08:313][947]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2018.01.27-09.12.08:313][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap to /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap (0.023401s)
+[2018.01.27-09.12.08:889][947]LogInit: XAudio2 using 'Headphones (Beoplay H8 Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.01.27-09.12.08:920][947]LogInit: FAudioDevice initialized.
+[2018.01.27-09.12.08:960][947]LogLoad: Game class is 'PlayMode_C'
+[2018.01.27-09.12.08:962][947]LogWorld: Bringing World /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap up for play (max tick rate 60) at 2018.01.27-10.12.08
+[2018.01.27-09.12.08:962][947]LogWorld: Bringing up level for play took: 0.001130
+[2018.01.27-09.12.08:963][947]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-09.12.08:963][947]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.01.27-09.12.08:963][947]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [GameController_66] Create All Spawners
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [GameController_66] Create Spawner: 0
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [GameController_66] Create Spawner: 1
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [GameController_66] Create All Spawners Done
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [Player_C_0] Player material set
+[2018.01.27-09.12.08:964][947]LogBlueprintUserMessages: [Spawner_C_0] Player is spawned
+[2018.01.27-09.12.08:966][947]LogBlueprintUserMessages: [Player_C_1] Player material set
+[2018.01.27-09.12.08:966][947]LogBlueprintUserMessages: [Spawner_C_1] Player is spawned
+[2018.01.27-09.12.08:966][947]LogBlueprintUserMessages: [GameController_66] Spawning Players done
+[2018.01.27-09.12.08:966][947]LogBlueprintUserMessages: [GameController_66] Game Play Start
+[2018.01.27-09.12.08:967][947]LogBlueprintUserMessages: [GameController_66] Start Countdown
+[2018.01.27-09.12.08:967][947]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.01.27-09.12.08:967][947]PIE: Play in editor start time for /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap 0.272
+[2018.01.27-09.12.08:967][947]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-09.12.09:641][984]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-09.12.09:641][984]LogBlueprintUserMessages: [GameController_66] CD: 5
+[2018.01.27-09.12.10:646][ 44]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-09.12.10:646][ 44]LogBlueprintUserMessages: [GameController_66] CD: 4
+[2018.01.27-09.12.11:630][103]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-09.12.11:631][103]LogBlueprintUserMessages: [GameController_66] CD: 3
+[2018.01.27-09.12.12:636][163]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-09.12.12:636][163]LogBlueprintUserMessages: [GameController_66] CD: 2
+[2018.01.27-09.12.13:640][222]LogBlueprintUserMessages: [GameController_66] Timer Update
+[2018.01.27-09.12.13:640][222]LogBlueprintUserMessages: [GameController_66] CD: 1
+[2018.01.27-09.12.13:640][222]LogBlueprintUserMessages: [GameController_66] Clear CountDown Timer
+[2018.01.27-09.12.13:640][222]LogBlueprintUserMessages: [GameController_66] Activate players
+[2018.01.27-09.12.24:271][856]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-09.12.25:356][921]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.28:983][137]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.12.29:033][140]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.29:049][141]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.12.29:487][167]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.31:442][284]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-09.12.31:475][286]LogBlueprintUserMessages: [Player_C_1] Player start overlap with obstacle
+[2018.01.27-09.12.31:491][287]LogBlueprintUserMessages: [Player_C_1] Player end overlap with obstacle
+[2018.01.27-09.12.32:095][323]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.12.32:111][324]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.32:128][325]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.12.33:331][397]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.35:505][527]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.12.35:521][528]LogBlueprintUserMessages: [Player_C_0] Player start overlap with obstacle
+[2018.01.27-09.12.35:538][529]LogBlueprintUserMessages: [Player_C_0] Player end overlap with obstacle
+[2018.01.27-09.49.36:055][979]PIE: Warning: Mobility of /Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7 : HoudiniAssetComponent has to be 'Movable' if you'd like to move. 
+[2018.01.27-09.49.38:545][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-09.49.38:581][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap' with GeneratedClass '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap_C' with ClassGeneratedBy '/Game/PuzzleBP/Maps/PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.PuzzleExampleMap'
+[2018.01.27-09.49.38:590][127]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_2) Not registered. Aborting.
+[2018.01.27-09.49.38:590][127]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_1) Not registered. Aborting.
+[2018.01.27-09.49.38:590][127]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.InstancedStaticMeshComponent_0) Not registered. Aborting.
+[2018.01.27-09.49.38:590][127]LogActorComponent: UnregisterComponent: (/Game/PuzzleBP/Maps/UEDPIE_0_PuzzleExampleMap.PuzzleExampleMap:PersistentLevel.Mihnea_levelgenerator_7.None) Not registered. Aborting.
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle_C' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:GetSpeedMultiplier.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle:GetSpeedMultiplier.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:ReceiveBeginPlay' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:ReceiveTick' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:speedMultiplier' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:StaticMesh' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.SKEL_Obstacle_C' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle_C:speedMultiplier' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle_C:DefaultSceneRoot' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:775][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle_C:StaticMesh' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.12:776][118]LogMetaData: Removing '/Game/Blueprints/obstac;es/Obstacle.Obstacle_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/Obstacle.PackageMetaData'
+[2018.01.27-09.50.16:430][118]LogWindows: Error: === Critical error: ===
+[2018.01.27-09.50.16:430][118]LogWindows: Error: 
+[2018.01.27-09.50.16:430][118]LogWindows: Error: Fatal error!
+[2018.01.27-09.50.16:430][118]LogWindows: Error: 
+[2018.01.27-09.50.16:430][118]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+[2018.01.27-09.50.16:430][118]LogWindows: Error: 
+[2018.01.27-09.50.16:430][118]LogWindows: Error: [Callstack] 0x000000007C2438A6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007C1F9EE7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007C1FCE07 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000084A1BA9B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007BF9AC69 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005EA31DEE UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005EA24AA4 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005E9EA9A3 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005EA31594 UE4Editor-AssetTools.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D80FD48 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D8DB1AA UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D83162C UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D8D6B55 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D8DEC2A UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D7D23AB UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D7939F9 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000005D7D247D UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007D00CD56 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007D013238 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CF67442 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CF68A79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CFE8795 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007D0A2B27 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007D0CEA04 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007D01540D UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CEE5EFC UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CEB8095 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CF528A7 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CF3B092 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x000000007CF2D902 UE4Editor-Slate.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000B09FE54B UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000B09F1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000B0A003EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000B09ED5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000D45EB85D USER32.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000D45EB1EF USER32.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000B0A01516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000007D150C8 UE4Editor.exe!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000007D25430 UE4Editor.exe!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000007D254AA UE4Editor.exe!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000007D32379 UE4Editor.exe!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x0000000007D33D57 UE4Editor.exe!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000D4311FE4 KERNEL32.DLL!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000D4BCEFB1 ntdll.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: [Callstack] 0x00000000D4BCEFB1 ntdll.dll!UnknownFunction []
+[2018.01.27-09.50.16:431][118]LogWindows: Error: 
+[2018.01.27-09.50.16:455][118]LogExit: Executing StaticShutdownAfterError
+[2018.01.27-09.50.16:496][118]LogWindows: FPlatformMisc::RequestExit(1)
+[2018.01.27-09.50.16:497][118]Log file closed, 01/27/18 10:50:16
